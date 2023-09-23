@@ -1,28 +1,28 @@
-# Quick Starter for Mobile Money Payment System with Ebilling Digitech Africa
+# Starter Rapide pour le Système de Paiement Mobile Money d'Ebilling Digitech Africa
 
-This repository contains a TypeScript codebase that serves as a quick starter for integrating the Mobile Money payment system with Ebilling Digitech Africa. This code provides functionality for creating invoices, making push USSD payments, getting invoice details, and creating payouts. Below, you'll find details on how to use this code in your project.
+Ce dépôt contient une base de code en TypeScript qui sert de starter rapide pour intégrer le système de paiement Mobile Money avec Ebilling Digitech Africa. Ce code fournit des fonctionnalités pour la création de factures, la réalisation de paiements USSD push, l'obtention des détails de facture et la création de paiements. Ci-dessous, vous trouverez des détails sur la manière d'utiliser ce code dans votre projet.
 
-## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
+## Table des matières
+- [Prérequis](#prérequis)
+- [Mise en route](#mise-en-route)
+- [Utilisation](#utilisation)
+- [Référence de l'API](#référence-de-lapi)
+- [Contribuer](#contribuer)
+- [Licence](#licence)
 
-## Prerequisites
-Before you can use this code, make sure you have the following prerequisites in place:
+## Prérequis
+Avant de pouvoir utiliser ce code, assurez-vous d'avoir les prérequis suivants en place :
 
-1. **Ebilling Digitech Africa Account**: You need an active account with Ebilling Digitech Africa to use their Mobile Money payment system.
+1. **Compte Ebilling Digitech Africa** : Vous devez disposer d'un compte actif chez Ebilling Digitech Africa pour utiliser leur système de paiement Mobile Money.
 
-2. **Username and Shared Key**: Obtain your username and shared key from your Ebilling Digitech Africa account.
+2. **Nom d'utilisateur et Clé partagée** : Obtenez votre nom d'utilisateur et votre clé partagée à partir de votre compte Ebilling Digitech Africa.
 
-3. **Node.js**: Make sure you have Node.js installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
+3. **Node.js** : Assurez-vous d'avoir Node.js installé sur votre système. Vous pouvez le télécharger depuis [nodejs.org](https://nodejs.org/).
 
-## Getting Started
-Follow these steps to get started with the Mobile Money payment system integration:
+## Mise en route
+Suivez ces étapes pour commencer à intégrer le système de paiement Mobile Money :
 
-1. Clone this repository to your local machine:
+1. Clonez ce dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Steeven1995/ebilling_function_js.git
